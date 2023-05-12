@@ -1,0 +1,25 @@
+{
+    "series1": [
+        {
+            "name": "Smiski Hugging Knees",
+            "body": "Normal",
+            "pose": "Kneeling",
+            "found": "In corners of a room",
+            "desc": "Always in the corner hugging onto the knees, staring out into the distance pensive in thought."
+        },
+        {
+            "name": "Smiski Sitting",
+            "body": "Slim",
+            "pose": "Sitting",
+            "found": "On top of books or shelves",
+            "desc": "Often found sitting silently and gazing down at something. Has a wary personality and prefers being alone."
+        },
+        {
+            "name": "",
+            "body": "",
+            "pose": "",
+            "found": "",
+            "desc": ""
+        }
+    ]
+}
